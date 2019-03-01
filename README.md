@@ -1,4 +1,4 @@
-﻿# জাভাস্ক্রিপ্ট টিউটরিয়াল
+﻿# জাভাস্ক্রিপ্ট টিউটোরিয়াল
 
 This repository hosts the content of the Modern JavaScript Tutorial, published at [https://javascript.info](https://javascript.info).
 
